@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danilovic-design
-- 👀 I’m interested in MERN stack, MEVN stack, penetration tesing
+- 👀 I’m interested in MERN stack, MEVN stack, MEAN stack, penetration tesing
 - 🌱 I’m currently learning penetration testing
 - 💞️ I’m looking to collaborate on MEVN/MERN stack projects
 - 📫 How to reach me: https://www.linkedin.com/in/laszlodanilovic/
